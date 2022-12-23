@@ -1,0 +1,78 @@
+.text{
+    background-color: rgb(243, 243, 243);
+}
+.Home_parent_div{
+    padding-bottom: 5rem;
+}
+.home_content_div{
+    display: flex;
+}
+.content_img_div{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.content_div{
+    width: max-content;
+    height: max-content;
+    margin-left: 6rem;
+}
+.content_div>h1{
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.img_div{
+    margin: 4rem;
+    margin-left: 5.5rem;
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    width: max-content;
+    height: max-content;
+}
+.paytm_img{
+    width: 5rem;
+}
+.img_div_2{
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    margin-top: 5rem;
+}
+.some_mobile_image{
+    width: 33rem;
+    height: 30.2rem;  
+}
+.paragraph_div{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+.paragraph_div>span{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.btn-button{
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    background:transparent;
+    margin-left: 1rem;
+ 
+}
+.button-btn_div{
+    width:max-content;
+    border-radius: 25px;
+    background-color: black;
+    margin-top: 3rem;
+    padding: 0.3rem;
+}
+.Appleicon{
+    color: white;
+}
+.Playstoreicon{
+    color: white;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}

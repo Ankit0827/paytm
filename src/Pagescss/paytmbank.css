@@ -1,0 +1,62 @@
+.paytmbank_parent_div{
+    display: flex;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    border-radius: 7px;
+    justify-content: space-between;
+    gap: 2rem;  
+    padding-bottom: 5rem;
+}
+.hdfc_div{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 7px;
+    
+}
+.hdfc_img_div{
+    width: max-content;
+    margin: 3rem;
+    margin-left: 6rem;
+    margin-bottom: 2rem;
+}
+.hdfc_img{
+    width: 12rem;
+}
+.hdfc_heading_div{
+    margin-left: 6rem;
+    font-weight: bold;
+}
+.hdfc_heading_div>h1{
+    font-weight: bold;
+}
+.hdfc_content_div{
+   display: flex;
+   flex-direction: column;
+   margin-left: 6rem;
+}
+.hdfc_content_div>span{
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+.hdfc_dabit_card_img_div{
+    margin-left: 6rem;
+    padding: 2rem;
+    padding-bottom: 0rem;
+}
+.hdfc_dabitcard_img{
+    width: 25rem;
+}
+.sbi_div{
+    display: flex;
+    flex: 1;
+    background-color: white;
+    border-radius: 7px; 
+}
+.sbi_img_div{
+    width: max-content;
+    margin: 6.5rem;
+    margin-left: 6rem;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,88 @@
+.carasolpaytm_parent_div{
+    display: flex;
+    padding: 7rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.content_paytmmoney_div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+}
+.paytmimg_div>img{
+   width: 10rem;
+}
+.para_content{
+    display: flex;
+    flex-direction: column;
+    padding-top: 3rem;
+}
+.link_div{
+    padding-top: 1.5rem;
+}
+.carsol_paytmmoney_img_div{
+    display: flex;
+    flex: 1;
+    border: 2px solid black;
+    gap: 1rem;
+}
+.carsol_div1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(44, 209, 246);
+    border-radius: 5px;
+    padding: 3px;
+}
+.span_div{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.span_div>span{
+   color: white;
+   font-weight: bold;
+   font-size: 20px;
+   
+}
+.carasol_imagestockes>img{
+    width: 10rem;
+}
+.carsol_div2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: rgb(44, 209, 246);
+
+}
+.carsol_div3{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: rgb(44, 209, 246);
+
+}
+.carsol_div4{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: rgb(44, 209, 246);
+
+}
+.carsol_div5{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: rgb(44, 209, 246);
+
+}

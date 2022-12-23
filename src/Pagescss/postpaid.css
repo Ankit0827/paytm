@@ -1,0 +1,27 @@
+
+
+.paytmpost_img{
+    width: 10rem;
+}
+
+
+.learnmore_button-btn_div{
+    width:max-content;
+    border-radius: 25px;
+    background-color: rgb(25, 25, 118);
+    margin-top: 3rem;
+    padding: 0.3rem;
+}
+.btn-button1{
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    background:transparent;
+    margin-left: 0.8rem;
+ 
+}
+.Angle_right{
+    color: white;
+    margin-right: 1rem;
+}

@@ -1,0 +1,15 @@
+.upi_parent_div{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(185, 185, 186, 0);
+
+}
+.upi_content_div{
+    display: flex;
+    margin: 7rem;
+    margin-bottom: 2rem;
+    margin-top: 0rem;
+    padding-bottom: 5rem;
+    background-color: white;
+    border-radius: 7px;
+}

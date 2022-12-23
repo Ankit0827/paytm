@@ -1,0 +1,70 @@
+.navbar_div {
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(7, 6, 6, 0.2);
+    transition: 0.3s;
+}
+
+.navbar_div>:nth-child(2) {
+    padding: 1rem;
+}
+
+.navbar_div>:nth-child(1) {
+    padding: 2rem;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ul_links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.navlink {
+    text-decoration: none;
+    color: black;
+    padding: 1rem;
+    font-weight: 600;
+}
+
+.imagelogo {
+    width: 9rem;
+    height: 1.5rem;
+    margin-left: 3rem;
+
+}
+
+.login_btn {
+    display: flex;
+    background-color: rgb(36, 199, 244);
+    height: max-content;
+    margin: 1.5rem;
+    border-radius: 27px;
+    height: max-content;
+
+}
+.profile_user_icon{
+    color: white;
+    padding: 0.6rem;
+    padding-left: 0.7rem;
+    padding-bottom: 0.7rem;
+   
+}
+.profile_usericon_div{
+    height: 2.3rem;
+    width: 2.3rem;
+    border-radius: 50%;
+    background-color: rgb(13, 1, 101);
+    margin: 2px;
+    margin-left: 1rem;
+}
+.button{
+    color: white;
+    border: none;
+    background: transparent;
+    font-weight: bold;
+    padding-left: 15px;
+}
+

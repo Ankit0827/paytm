@@ -1,0 +1,74 @@
+.recharge_parent_div{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(36, 199, 244);
+}
+.heading_div{
+    padding: 3rem 0rem 1rem 3rem;
+    padding-left: 6rem;
+    color: white;
+}
+.all_rechargetype_div{
+    display: flex;
+    padding: 0rem 6rem 0rem 6rem;
+    justify-content: space-between;
+    gap: 1rem;
+
+}
+.recharge_sub_div1{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    margin-bottom: 5rem;
+
+}
+.recharge_sub_div2{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    margin-bottom: 5rem;
+
+}.recharge_sub_div3{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    margin-bottom: 5rem;
+
+
+}.recharge_sub_div4{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    margin-bottom: 5rem;
+
+}.recharge_sub_div5{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    margin-bottom: 5rem;
+
+}.recharge_sub_div6{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    margin-bottom: 5rem;
+}
+.recharge_heading_div1{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+.mobile_image_recharge{
+    width: 4rem;
+}
+.faAngleRight{
+    padding-left: 0.5rem ;
+}

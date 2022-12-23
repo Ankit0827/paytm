@@ -1,0 +1,71 @@
+.payment_parent_div{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(185, 185, 186, 0.262);
+}
+
+
+.payment_heading{
+    width: max-content;
+    margin-left: 7rem;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+.heading{
+    font-weight: 700;
+}
+.content_div1{
+    width: max-content;
+    height: max-content;
+    margin-left: 6rem;
+}
+.payment_heading1{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.payment_paragraph_div{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+}
+.payment_paragraph_div>span{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.payment_content_div{
+    display: flex;
+    margin: 7rem;
+    margin-bottom: 2rem;
+    margin-top: 0rem;
+    padding-bottom: 5rem;
+    background-color: white;
+    border-radius: 7px;
+    /* border: 2px solid red; */
+}
+.payment_img_div_2{
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    margin-top: 5rem;
+    margin-right: 5rem;
+}
+.wallet_img_div{
+    display: flex;
+    margin: 4rem;
+    margin-left: 5.5rem;
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    width: max-content;
+    height: max-content;
+}
+.payment_span_div{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    height: max-content;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+.payment_span_div>span{
+   font-weight:bold;
+}

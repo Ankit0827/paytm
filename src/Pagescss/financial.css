@@ -1,0 +1,52 @@
+.financial_heading_div{
+    margin-left: 6rem;
+    margin-top: 3rem;
+    padding-left: 0rem;
+    padding-top: 4rem;
+    width: max-content;
+}
+
+.financial_heading{
+    font-weight: 700;
+    font-size: 3rem;
+}
+.financial_img_div{
+    margin: 4rem;
+    margin-left: 6.3rem;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    width: max-content;
+    height: max-content;
+}
+.financial_paytm_img{
+    width: 15rem;
+}
+.financial_img_div_2{
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    margin-top: 5rem;
+    padding-right: 6rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.financial_content_div{
+    width: max-content;
+    height: max-content;
+    margin-left: 6rem;
+}
+.financial_content_div>h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.financial_some_mobile_image{
+    width: 30rem;
+    height: 32rem;  
+}
+.learnmore_button-btn_div{
+    width:max-content;
+    border-radius: 25px;
+    background-color: rgb(25, 25, 118);
+    margin-top: 3rem;
+    padding: 0.3rem;
+}
